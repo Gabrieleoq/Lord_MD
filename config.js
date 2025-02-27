@@ -67,14 +67,14 @@ global.nameown = 'Ammar-Executed'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  ['400771048185'],
+  ['400771048185'],
+  ['400771048185'],
+  ['400771048185', '⌬ Ammar Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
-global.prems = ['6288229683561','6287708773367'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['400771048185'] // Want some help?
+global.prems = ['400771048185','400771048185'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
